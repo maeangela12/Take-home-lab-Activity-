@@ -1,2 +1,1 @@
-# Take-home-lab-Activity-
-List
+# Take-home-lab-Activity List
